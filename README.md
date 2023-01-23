@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikkyOj
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning jQuery 
+- 👀 I’m interested in front-end development.
+- 🌱 I’m currently learning Three.Js 
 - 💞️ I’m looking to collaborate on UI/UX design 
 - 📫 Contact me via email (ojebola.michael00@gmail.com)
 
